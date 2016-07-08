@@ -24,7 +24,7 @@ shinyUI(fluidPage(
   
   # plot and output
   mainPanel(
-    div(h2("Developing Data Products Project", style="color:#ff6600;margin:-65px 0px 10px 20px;")),
+    ##div(h2("Developing Data Products Project", style="color:#ff6600;margin:-65px 0px 10px 20px;")),
     h4('Summary of Selected Attribute'),
     h4(verbatimTextOutput("summary")),
     h4(textOutput('text')),
