@@ -1,7 +1,7 @@
 ---
 title       : Developing Data Products Project
 subtitle    : July 8, 2016
-author      : AlakaSar
+author      : alaka10
 job         :   s
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
